@@ -1,1 +1,5 @@
-# secure-chat-flutter-csharp
+# Secure Messaging App
+
+Encrypted messaging application using:
+- Flutter client
+- C# server
