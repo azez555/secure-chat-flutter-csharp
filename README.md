@@ -64,14 +64,6 @@
 *   **دفق الوسائط** لا يمر عبر الخادم، مما يقلل من زمن التأخير ويزيد من الخصوصية.
 *   **الهوية الرقمية** محمية باستخدام تشفير المفتاح العام، مما يمنع هجمات انتحال الشخصية.
 
----
-
-## المراجع
-1. [WebRTC API Documentation](https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API)
-2. [SignalR Official Documentation](https://learn.microsoft.com/en-us/aspnet/core/signalr/introduction)
-3. [End-to-End Encryption (E2EE) Overview](https://en.wikipedia.org/wiki/End-to-end_encryption)
-
-
 
 
 ⚠️ This project is for academic and educational purposes only.
